@@ -1,0 +1,15 @@
+Booli areaIds
+-------------
+
+Södermalm: 115341
+
+Myntvägen: 106602
+
+
+Booli URLs
+-----------
+booli.se/sok/slutpriser?areaIds=<areaId>
+
+https://www.booli.se/sok/slutpriser?areaIds=115341&maxRooms=1
+
+https://www.booli.se/sok/slutpriser?areaIds=106602
